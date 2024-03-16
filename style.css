@@ -1,0 +1,20 @@
+body {
+    background-color: blue;
+    color: azure;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    height: 100vh;
+}
+
+h1 {
+    color: red;
+    background-color: orange;
+}
+
+img {
+   
+    width: 350px;
+}
